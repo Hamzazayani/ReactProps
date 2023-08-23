@@ -1,0 +1,15 @@
+.cart{
+    display:flex;
+    position:top;
+    gap: 100px;
+    margin: 80px;
+justify-content: center;
+}
+.prt{
+    display:flex;
+    position:top;
+    gap: 100px;
+    margin: 80px;
+justify-content: center;
+    
+}
